@@ -61,10 +61,6 @@
 > #### Response
 > - Response dalam Laravel adalah output yang dihasilkan oleh aplikasi sebagai tanggapan atas permintaan HTTP dari klien. Ini dapat berupa teks, JSON, tampilan, file, atau pengalihan ke URL lain. Dalam Laravel, Anda dapat menghasilkan respons menggunakan berbagai metode seperti `response()`, `view()`, `json()`, atau `redirect()`. Ini memungkinkan Anda untuk berkomunikasi dengan pengguna atau klien Anda dengan cara yang efisien dan efektif.
 ---
-  <b>PERTANYAAN DAN CATATAN TAMBAHAN</b>
----
-> - apa yang terjadi ketika data yang sudah tersimpan di dengan cookie kita ganti ke session 
----
   <b>KESIMPULAN</b>
 ---
 > - Laravel adalah kerangka kerja aplikasi web PHP yang kuat dan ekspresif, memungkinkan pengembangan aplikasi web yang cepat dan efisien. Dengan fitur-fitur seperti Eloquent ORM, Blade Templating Engine, Artisan CLI, dan routing yang ekspresif, Laravel menyediakan alat yang kuat dan konsisten bagi pengembang. Dukungan dari paket-paket tambahan dan komunitas yang luas membuatnya menjadi pilihan utama untuk membangun aplikasi web modern.
